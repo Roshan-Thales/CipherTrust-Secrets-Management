@@ -4,4 +4,4 @@ Securely store and manage secrets, credentials, certificates, API keys, and toke
 Automate secrets rotation and revocation
 Integrate with popular DevOps tools and cloud platforms
 Scale your secrets management to meet the needs of your growing organization
-For more information click this Link
+For more information click this https://cpl.thalesgroup.com/encryption/ciphertrust-secrets-management
